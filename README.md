@@ -4,7 +4,7 @@ TA1-03
 #Objetivo del trabajo
 
 
-#Participantes
+# Participantes
 
 
 -
@@ -13,12 +13,12 @@ TA1-03
 
 -
 
-#Dataset
+# Dataset
 
 
 
-#Conlusiones
+# Conlusiones
 
 
 
-#Licencia 
+# Licencia 
