@@ -24,4 +24,4 @@ El dataset analizado es uno modificado que, originalmente, se encontraba en el a
 - Debido a que en el año 2017 bajaron las reservaciones, contrario a lo que pasó en el 2016, la empresa debería volver a una estrategia anterior.
 
 # Licencia 
-Se ha acordado usar para este proyecto analítico la licencia Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)
+Se ha acordado usar para este proyecto analítico la licencia [Atribución-NoComercial-CompartirIgual 4.0 Internacional (CC BY-NC-SA 4.0)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
